@@ -1,0 +1,5 @@
+---
+models:
+  thai-ipa:
+    version: 1.0001 # A version field is used for autoupdates
+    path: "./thai-ipa.zip"
